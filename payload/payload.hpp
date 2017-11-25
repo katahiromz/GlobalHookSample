@@ -1,4 +1,4 @@
-// MyDLL.hpp --- a DLL for global hook
+// payload.hpp --- a payload DLL for global hook
 // See README.txt and LICENSE.txt.
 //////////////////////////////////////////////////////////////////////////////
 

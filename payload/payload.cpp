@@ -1,7 +1,8 @@
-// MyDLL.cpp --- a DLL for global hook
+// payload.cpp --- a payload DLL for global hook
 // See README.txt and LICENSE.txt.
 //////////////////////////////////////////////////////////////////////////////
 
+#define _CRT_SECURE_NO_WARNINGS
 #include "payload.hpp"
 #include "MInterProcessShare.hpp"
 #include <cstdio>
