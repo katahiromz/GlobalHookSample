@@ -25,7 +25,6 @@ extern "C" {
 
 typedef struct PAYLOAD_SHARE
 {
-    HINSTANCE    m_hInstDLL;
     HHOOK        m_hHook;
     TCHAR        m_szOutputFile[MAX_PATH];
 } PAYLOAD_SHARE;
